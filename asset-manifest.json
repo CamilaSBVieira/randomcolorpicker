@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/randomcolorpicker/static/css/main.aa069830.css",
+    "main.js": "/randomcolorpicker/static/js/main.05fe3a7e.js",
+    "static/js/787.7ac88bbc.chunk.js": "/randomcolorpicker/static/js/787.7ac88bbc.chunk.js",
+    "index.html": "/randomcolorpicker/index.html",
+    "main.aa069830.css.map": "/randomcolorpicker/static/css/main.aa069830.css.map",
+    "main.05fe3a7e.js.map": "/randomcolorpicker/static/js/main.05fe3a7e.js.map",
+    "787.7ac88bbc.chunk.js.map": "/randomcolorpicker/static/js/787.7ac88bbc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aa069830.css",
+    "static/js/main.05fe3a7e.js"
+  ]
+}
